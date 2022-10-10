@@ -1,0 +1,97 @@
+#tab_1 {
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+    width: 400px;
+    margin-left: 120px;
+    margin-right: auto;
+}
+
+table {
+
+    font-family: Tahoma,Verdana,Segoe,sans-serif; 
+    font-size: 12px;
+}
+
+table caption {
+
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+    height: 25px;
+}
+
+.naglowek {
+
+    background-color: green;
+    color: lightgrey;
+    text-align: center;
+    font-weight: bold;
+    height: 35px;
+}
+
+.wiersz_1 {
+
+    background-color:yellow;
+    color: black;
+}
+
+.wiersz_2 {
+
+    background-color: white;
+    color: black;
+}
+
+.left {
+
+    text-align: left;
+    height: 30px;
+}
+
+.right {
+
+    text-align: right;
+}
+
+tr:hover {
+    font-weight: bold;
+}
+
+
+#k1 {
+
+    text-align: center;
+}
+
+#k2 {
+
+    text-align: center;
+}
+
+#k3 {
+
+    text-align: center;
+}
+
+#k4 {
+
+    text-align: center;
+}
+.right {
+    text-align: center;
+}
+tr:hover {
+    font-weight: bold;
+}
+td {
+    padding: 10px;
+}
+.lista-linkow li {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 2.5em;
+    text-align: center
+}
